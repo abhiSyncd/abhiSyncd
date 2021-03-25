@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi 👋, My name is Abhishek 🧑‍💻.
 
-<!--
-**abhiSyncd/abhiSyncd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Repos Badge](https://badges.pufler.dev/repos/abhiSyncd)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/abhiSyncd)](https://badges.pufler.dev)
 
-Here are some ideas to get you started:
+###### I build things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
+
+### Tools I use
+ - HTML,CSS,JavaScript,React,Angular,Vue
+ - Java,Spring,JavaEE
+ - MSSQL, Mysql, Mongodb, PouchDb, RxDB, CouchDb
+ - Kafka, ActiveMQ, RabbitMQ 
+
+### Currently Learning
+- CSS
+- Design
+- Flutter
