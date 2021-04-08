@@ -13,3 +13,40 @@
 
 ### Currently Learning
 
+
+
+</br>
+
+<div align="center">
+<!--
+<a href="https://github.com/abhiSyncd"> <img align="left"  width=49%
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact" />
+-->
+<a href="https://github.com/abhiSyncd"> <img align="left"  width=30.4%
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" />
+
+<a href="https://github.com/abhiSyncd"> <img    width=62%
+src="https://github-readme-stats.vercel.app/api?username=abhiSyncd&show_icons=true&count_private=true" />
+
+</div>
+
+<div align="center">
+<a href="https://github.com/abhiSyncd"> <img align="center" width=60%
+src="https://metrics.lecoq.io/abhiSyncd" />
+</a>
+</div>
+</br>
+
+<div align="center">
+<a href="https://github.com/abhiSyncd"> <img align="center" width=60%
+src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
+</div>
+
+<!--
+<div align="center">
+<img width=100% height=50px
+src=
+/>
+-->
+<!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=abhiSyncd alt=abhiSyncd /> </p> -->
+
