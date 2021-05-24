@@ -16,12 +16,12 @@
 
 
 </br>
-
-<div align="center">
 <!--
+<div align="center">
+
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=49%
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact" />
--->
+
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=30.4%
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" />
 
@@ -29,7 +29,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" /
 src="https://github-readme-stats.vercel.app/api?username=abhiSyncd&show_icons=true&count_private=true" />
 
 </div>
-
+-->
 <div align="center">
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://metrics.lecoq.io/abhiSyncd" />
