@@ -30,14 +30,14 @@ src="https://github-readme-stats.vercel.app/api?username=abhiSyncd&show_icons=tr
 
 </div>
 -->
-<div align="center">
+<div>
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://metrics.lecoq.io/abhiSyncd" />
 </a>
 </div>
 </br>
 
-<div align="center">
+<div>
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
 </div>
