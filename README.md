@@ -17,6 +17,18 @@
 | KNOWLEDGE                      |  Data Structures Algorithms, System Design, Multithreading, Design Patterns, SOLID, OOPS, OWASP     
 | MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
 | INTEREST                       |  Cloud and Devops
+
+
+| DESIGN PATTERN                    | SPRING CLOUD                | KUBERNETES          | ISTIO               |  Others 
+| ---                               | ---                         | ---                 | ---                 |  ---     
+| Service Discovery                 | Eurek, Ribbona              | Kube-Proxy          |                     | Hashicorps Consul
+| Edge Server                       | Zuul, Spring Cloud Gateway  |                     | Ingress Controller  | Ingress Gateway                         
+| Central Configuration             | Config server               |                     |                     | Hashicorps Consul, Vaults
+| Distributed Tracing               | Sleuth                      | Jaeger              |                     | 
+| Centralized Monitoring and Alarm  | Zipkin                      |                     |                     | Grafana and Prmetheus ((Can be deployed in Kubernetes))
+| Centralized Log Analysis          |                             |                     |                     | ELK (Can be deployed in Kubernetes), Splunk
+| Cicuit Breaker                    | Hystrix                     |                     | Outlier Detection   | Resilience4j
+| Control Loop                      |                             | Controller Manager  |                     |             
              
 
 [![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
