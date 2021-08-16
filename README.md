@@ -4,7 +4,7 @@
 
 ### Developer by profession but teacher by heart
 
-|                   |                  
+|      f                         | fvfv                 
 | ---                            | ---                         
 | LANGUAGES                      |  JAVA, Javascript 
 | FRAMEWORKS                     |  Spring, Angular, Bootstrap
