@@ -8,11 +8,21 @@
 
 [![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
 
-<!--
-Tools I use
+• Skills
+  Java
+  Spring, Angular
+  Relational DB, MongoDB, Elasticsearch, Redis
+  RabbitMQ
+  Mockito, REST Assured, Awaitility
+  AWS
 
- Currently Learning
--->
+• Knowledge : Data Structures Algorithms, System Design, Multithreading, Design Patterns, OWASP
+
+• Exposure : Javascript, Node, Bootstrap, Android ,Selenium Webdriver
+
+• Mindset : Creating Scalable, Available, Resilient, Durable, Secured Application
+
+• Interest : Cloud and Devops
 
 <!--
 <div align="center">
