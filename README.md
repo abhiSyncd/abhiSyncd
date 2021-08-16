@@ -5,15 +5,24 @@
 ### Developer by profession but teacher by heart
 
     LANGUAGES         JAVA, Javascript
-    FRAMEWORKS        Spring, Angular, Bootstrap 
-    DATABASES         Relational, MongoDB, Elasticsearch, Redis 
+    
+    FRAMEWORKS        Spring, Angular, Bootstrap
+    
+    DATABASES         Relational, MongoDB, Elasticsearch, Redis
+    
     MESSAGING         RabbitMQ
+    
     CLOUD             AWS
     
-    WEB               HTML5, CSS3, JSON , XML 
+    WEB               HTML5, CSS3, JSON , XML
+    
     QA AUTOMATION     Mockito, TestNG, REST Assured, Awaitility, Selenium webdriver
-    TOOLS & PLUGINS   Maven, Git, Jenkins, Docker, Swagger, SonarLint , JaCoCo EXPOSURE Node, Bootstrap, Android, Selenium Webdrive
+    
+    TOOLS & PLUGINS   Maven, Git, Jenkins, Docker, Swagger, SonarLint , JaCoCo 
+    
+    EXPOSURE          Node, Bootstrap, Android, Selenium Webdriver
 
+    KNOWLEDGE         Data Structures Algorithms, System Design, Multithreading, Design Patterns, SOLID, OOPS, OWASP         
     
     MINDSET           Creating Scalable, Available, Resilient, Durable, Secured Application
 
