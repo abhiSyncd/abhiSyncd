@@ -4,6 +4,7 @@
 
 ### Developer by profession but teacher by heart
 
+| ---                            | ---   
 | LANGUAGES                      |  JAVA, Javascript 
 | FRAMEWORKS                     |  Spring, Angular, Bootstrap
 | DATABASES                      |  Relational, MongoDB, Elasticsearch, Redis
