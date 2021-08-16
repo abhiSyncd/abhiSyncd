@@ -4,30 +4,19 @@
 
 ### Developer by profession but teacher by heart
 
-    LANGUAGES         JAVA, Javascript
-    
-    FRAMEWORKS        Spring, Angular, Bootstrap
-    
-    DATABASES         Relational, MongoDB, Elasticsearch, Redis
-    
-    MESSAGING         RabbitMQ
-    
-    CLOUD             AWS
-    
-    WEB               HTML5, CSS3, JSON , XML
-    
-    QA AUTOMATION     Mockito, TestNG, REST Assured, Awaitility, Selenium webdriver
-    
-    TOOLS & PLUGINS   Maven, Git, Jenkins, Docker, Swagger, SonarLint , JaCoCo 
-    
-    EXPOSURE          Node, Bootstrap, Android, Selenium Webdriver
-
-    KNOWLEDGE         Data Structures Algorithms, System Design, Multithreading, Design Patterns, SOLID, OOPS, OWASP         
-    
-    MINDSET           Creating Scalable, Available, Resilient, Durable, Secured Application
-
-    INTEREST          Cloud and Devops
-
+| LANGUAGES                      |  JAVA, Javascript 
+| FRAMEWORKS                     |  Spring, Angular, Bootstrap
+| DATABASES                      |  Relational, MongoDB, Elasticsearch, Redis
+| MESSAGING                      |  RabbitMQ
+| CLOUD                          |  AWS
+| WEB                            |  HTML5, CSS3, JSON , XML
+| QA AUTOMATION                  |  Mockito, TestNG, REST Assured, Awaitility, Selenium webdriver
+| TOOLS & PLUGINS                |  Maven, Git, Jenkins, Docker, Swagger, SonarLint , JaCoCo 
+| EXPOSURE                       |  Node, Bootstrap, Android, Selenium Webdriver
+| KNOWLEDGE                      |  Data Structures Algorithms, System Design, Multithreading, Design Patterns, SOLID, OOPS, OWASP     
+| MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
+| INTEREST                       |  Cloud and Devops
+             
 
 [![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
 
