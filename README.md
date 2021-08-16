@@ -35,7 +35,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" /
 src="https://github-readme-stats.vercel.app/api?username=abhiSyncd&show_icons=true&count_private=true" />
 
 </div>
--->
+
 <div>
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://metrics.lecoq.io/abhiSyncd" />
