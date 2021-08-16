@@ -2,7 +2,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/abhiSyncd)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/abhiSyncd)](https://badges.pufler.dev)
 
-###### Developer by profession but teacher by heart
+### Developer by profession but teacher by heart
 
     LANGUAGES         JAVA, Javascript
     FRAMEWORKS        Spring, Angular, Bootstrap 
