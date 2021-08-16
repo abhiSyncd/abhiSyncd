@@ -3,6 +3,10 @@
 [![Repos Badge](https://badges.pufler.dev/repos/abhiSyncd)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/abhiSyncd)](https://badges.pufler.dev)
 
 ### Developer by profession but teacher by heart
+         
+
+[![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
+
 
 |                                |  Skills                 
 | ---                            | ---                         
@@ -18,10 +22,7 @@
 | KNOWLEDGE                      |  Data Structures Algorithms, System Design, Multithreading, Design Patterns, SOLID, OOPS, OWASP     
 | MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
 | INTEREST                       |  Cloud and Devops        
-             
-
-[![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
-
+    
 <!--
 <div align="center">
 
