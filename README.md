@@ -6,8 +6,6 @@
 [![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)
 
 
-
-
 |                                |  Skills                 
 | ---                            | ---                         
 | LANGUAGES                      |  JAVA, Javascript 
@@ -24,6 +22,7 @@
 | INTEREST                       |  Cloud and Devops        
     
 
+<!--
 <div align="center">
 
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=49%
@@ -45,7 +44,7 @@ src="https://metrics.lecoq.io/abhiSyncd" />
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
 </div>
-
+-->
 
 <!--
 <div align="center">
