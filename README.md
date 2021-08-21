@@ -25,7 +25,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" /
 | MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
 | INTEREST                       |  Cloud and Devops        
     
-
+<!--
 <div align="center">
 
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=49%
@@ -47,6 +47,7 @@ src="https://metrics.lecoq.io/abhiSyncd" />
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
 </div>
+-->
 
 <!--
 <div align="center">
