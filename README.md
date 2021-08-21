@@ -5,7 +5,7 @@
 ### Developer by profession but teacher by heart
          
 
-[![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
+[![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=30.4%
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" />
 
