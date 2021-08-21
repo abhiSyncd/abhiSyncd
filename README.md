@@ -4,10 +4,6 @@
 
 ### Developer by profession but teacher by heart
 [![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact)](https://github.com/abhiSyncd/github-readme-stats)
-
-
-
 
 |                                |  Skills                 
 | ---                            | ---                         
@@ -24,6 +20,8 @@
 | MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
 | INTEREST                       |  Cloud and Devops        
     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact)](https://github.com/abhiSyncd/github-readme-stats)
+
 
 <!--
 <div align="center">
