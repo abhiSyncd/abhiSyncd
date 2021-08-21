@@ -6,6 +6,8 @@
          
 
 [![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact&count_private=true)](https://github.com/abhiSyncd/)
+<a href="https://github.com/abhiSyncd"> <img align="left"  width=30.4%
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" />
 
 
 |                                |  Skills                 
@@ -28,9 +30,6 @@
 
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=49%
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact" />
-
-<a href="https://github.com/abhiSyncd"> <img align="left"  width=30.4%
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd" />
 
 <a href="https://github.com/abhiSyncd"> <img    width=62%
 src="https://github-readme-stats.vercel.app/api?username=abhiSyncd&show_icons=true&count_private=true" />
