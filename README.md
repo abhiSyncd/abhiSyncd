@@ -23,7 +23,7 @@
 | MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
 | INTEREST                       |  Cloud and Devops        
     
-<!--
+
 <div align="center">
 
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=49%
@@ -54,6 +54,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
 <img width=100% height=50px
 src=
 />
--->
+
 <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=abhiSyncd alt=abhiSyncd /> </p> -->
 
