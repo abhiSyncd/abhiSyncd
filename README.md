@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact)](https://github.com/abhiSyncd/github-readme-stats)
 
 
-<!--
+
 <div align="center">
 
 <a href="https://github.com/abhiSyncd"> <img align="left"  width=49%
@@ -33,7 +33,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&la
 src="https://github-readme-stats.vercel.app/api?username=abhiSyncd&show_icons=true&count_private=true" />
 
 </div>
-
+<!--
 <div>
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://metrics.lecoq.io/abhiSyncd" />
