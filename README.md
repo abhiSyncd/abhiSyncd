@@ -23,10 +23,10 @@
 | INTEREST                       |  Cloud and Devops        
     
     
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact)](https://github.com/abhiSyncd/github-readme-stats)
 
-<div>
+<div align="center">
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
 </div>
