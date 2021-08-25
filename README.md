@@ -6,10 +6,6 @@
 <!--
 [![abhiSyncd's github stats](https://github-readme-stats.vercel.app/api?username=abhiSyncd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/abhiSyncd/)
 -->
-<div>
-<a href="https://github.com/abhiSyncd"> <img align="center" width=60%
-src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
-</div>
     
 |                                |  Skills                 
 | ---                            | ---                         
@@ -26,9 +22,17 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
 | MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
 | INTEREST                       |  Cloud and Devops        
     
+    
+<div align="center">
+ <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiSyncd&layout=compact)](https://github.com/abhiSyncd/github-readme-stats)
-
-
+    </div>
+<div>
+<a href="https://github.com/abhiSyncd"> <img align="center" width=60%
+src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
+</div>
+</div 
+    
 <!--
 <div align="center">
 
