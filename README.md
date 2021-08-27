@@ -30,8 +30,5 @@
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
 src="https://github-readme-streak-stats.herokuapp.com/?user=abhiSyncd" />
 </div>
-</div 
-    
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abhiSyncd}/count.svg" /></p> 
+</div
 
