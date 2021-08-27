@@ -25,7 +25,6 @@
 | INTEREST                       |  Cloud and Devops        
     
  
- [![Abhishek's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhiSyncd&theme=xcode)](https://git.io/abhiSyncd)
  
 <div align="center">
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
