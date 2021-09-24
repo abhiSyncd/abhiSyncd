@@ -24,9 +24,10 @@
 | MINDSET                        |  Creating Scalable, Available, Resilient, Durable, Secured Application
 | INTEREST                       |  Cloud and Devops        
     
- <div align="center">
- **** Contact Me : abhi.syncd@gmail.com  ****
- </div>
+
+ ## Contact : abhi.syncd@gmail.com 
+ 
+ 
 <!-- 
 <div align="center">
 <a href="https://github.com/abhiSyncd"> <img align="center" width=60%
