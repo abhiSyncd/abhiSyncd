@@ -25,7 +25,7 @@
 | INTEREST                       |  Cloud and Devops        
     
  <div align="center">
- Contact Me : abhi.syncd@gmail.com
+ ## Contact Me : abhi.syncd@gmail.com
  </div>
 <!-- 
 <div align="center">
