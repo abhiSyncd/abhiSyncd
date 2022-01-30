@@ -12,7 +12,7 @@
 |                                |  Skills                 
 | ---                            | ---                         
 | LANGUAGES                      |  JAVA, Javascript 
-| FRAMEWORKS                     |  Spring, Angular, Bootstrap
+| FRAMEWORKS                     |  Spring, Angular
 | DATABASES                      |  Relational, MongoDB, Elasticsearch, Redis
 | MESSAGING                      |  RabbitMQ
 | CLOUD                          |  AWS
